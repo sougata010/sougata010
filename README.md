@@ -42,7 +42,7 @@ I am a Computer Science student, Full-Stack Developer, Backend Developer and AI 
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" /> |
 | **AI Engineering** | <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-007ACC?style=flat-square"/> |
 | **Backend Architecture** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,mongoose,sequelize" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sequelize" /><img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/> |
 | **Frontend Ecosystem** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> |
 | **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" /> |
 ---
