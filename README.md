@@ -70,15 +70,23 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 
 <div align="center">
 
-<!-- Updated Stats Layout with standard dark fallback theme -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sougata010&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougata010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sougata010&theme=dark&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sougata010&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
+
+### 📈 Global Activity Heatmap
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=tokyonight&hide_border=true" alt="Activity Graph"/>
+
+### 🎮 Contribution Grid Snake
+<img src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
+
+</div>
 
 ### 📈 Global Activity Heatmap
 
