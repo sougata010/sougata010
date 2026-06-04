@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Sougata Chongder
-### 🚀 Full-Stack Developer & AI Engineer
+### 🚀 Full-Stack Developer, Backend Development, AI 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Engineer+%7C+LLM+Workflows;FastAPI+%E2%9A%A1+Node.js+%E2%9A%9B+LangChain;Building+Intelligent+Scaleable+Systems" />
 
