@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Engineering+%7C+LLM+Workflows;FastAPI+%E2%9A%A1+Node.js+%E2%9A%9B+LangChain;Building+Intelligent+Scaleable+Systems" />
 
-<p align="center">
+<p align="center"> 
   <a href="https://linkedin.com/in/sougata-chongder-82198737a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
