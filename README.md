@@ -18,6 +18,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Developer Program Member"/>
+
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Animated Divider"/>
