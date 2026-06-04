@@ -30,7 +30,7 @@
 I am a Computer Science student, Full-Stack Developer, Backend Developer and AI Enthusiast focused on building robust APIs, distributed backend architectures, and intelligent multi-agent automation systems.
 
 - 🛠️ Currently architecting production-ready microservices with **FastAPI** and **Express.js**.
-- 🤖 Engineering composite AI systems utilizing **LangChain** and structured data parsing with **Pydantic**.
+- 🤖 Building composite AI systems utilizing **LangChain** and structured data parsing with **Pydantic**.
 - 🐧 Linux enthusiast dedicated to automation, shell scripting, and core **DevOps** methodologies.
 
 ---
