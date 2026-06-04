@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⚡ Sougata Chongder
-### 🚀 Full-Stack Developer & Backend Engineer
+### 🚀 Full-Stack Developer & AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+Engineer+%7C+API+Architect;FastAPI+%E2%9A%A1+Node.js+%E2%9A%9B+MongoDB;Architecting+Intelligent+AI+Workflows" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Engineer+%7C+LLM+Workflows;FastAPI+%E2%9A%A1+Node.js+%E2%9A%9B+LangChain;Building+Intelligent+Scaleable+Systems" />
 
 <p align="center">
   <a href="https://linkedin.com/in/sougata-chongder-82198737" target="_blank">
@@ -25,11 +25,11 @@
 
 ## 🪐 About Me
 
-I am a Computer Science student and Full-Stack Developer passionate about architecting scalable backend systems, robust APIs, automated workflows, and production-ready web platforms.
+I am a Computer Science student, Full-Stack Developer, and AI Engineer focused on building robust APIs, distributed backend architectures, and intelligent multi-agent automation systems.
 
-- 🛠️ Currently deep-diving into **System Design** and **DevOps Fundamentals**.
-- 🤖 Building intelligent automation systems and multi-agent AI environments.
-- 🐧 Linux power user who enjoys tinkering with server environments and automation scripts.
+- 🛠️ Currently architecting production-ready microservices with **FastAPI** and **Express.js**.
+- 🤖 Engineering composite AI systems utilizing **LangChain** and structured data parsing with **Pydantic**.
+- 🐧 Linux enthusiast dedicated to automation, shell scripting, and core **DevOps** methodologies.
 
 ---
 
@@ -38,9 +38,10 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" /> |
+| **AI Engineering** | <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-007ACC?style=flat-square"/> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> |
 
 ---
@@ -50,8 +51,9 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 ### 🤖 Agentica AI
 > An AI-powered automation engine engineered for modern productivity workflows and intelligent system orchestration.
 
-* **Backend Engine:** Built with fast, asynchronous **FastAPI** architecture.
-* **Database & Frontend:** Powered by **MongoDB** for flexible data structuring and vanilla **JavaScript** for responsive client logic.
+* **Core AI Layer:** Orchestrated via **LangChain** workflows with **Pydantic** data validation.
+* **Backend Engine:** High-performance, asynchronous endpoints powered by **FastAPI**.
+* **Database & Frontend:** Interfaced with a **MongoDB** document store and rendered using clean interactive elements.
 * **Deployment & Live Demo:** 🔗 [Launch Agentica AI](https://agentica-ai.vercel.app)
 
 ---
@@ -59,8 +61,7 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 ## 📜 Certifications
 
 * **Electronic Arts Software Engineering Virtual Experience** (via Forage)  
-  *Gained hands-on experience covering practical software engineering workflows, testing strategies, and industry-standard architecture methods.*  
-  📄 [View Completion Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf)
+  *Gained hands-on experience covering practical software engineering workflows, testing strategies, and industry-standard architecture methods.* 📄 [View Completion Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf)
 
 ---
 
