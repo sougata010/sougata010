@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Sougata Chongder
-### 🚀 Full-Stack Developer & Backend Engineering
+### 🚀 Full-Stack Developer & Backend Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Backend+Engineer+%7C+API+Architect;FastAPI+%E2%9A%A1+Node.js+%E2%9A%9B+MongoDB;Architecting+Intelligent+AI+Workflows" />
 
@@ -25,9 +25,9 @@
 
 ## 🪐 About Me
 
-I am a Computer Science student and Full-Stack Developer passionate about architecting scalable backend systems, robust APIs, automated workflows, and production-ready web platforms. 
+I am a Computer Science student and Full-Stack Developer passionate about architecting scalable backend systems, robust APIs, automated workflows, and production-ready web platforms.
 
-- 🛠️ Currently deep-diving into **System Design** , **DevOps Fundamentals** and **Backend Systems**.
+- 🛠️ Currently deep-diving into **System Design** and **DevOps Fundamentals**.
 - 🤖 Building intelligent automation systems and multi-agent AI environments.
 - 🐧 Linux power user who enjoys tinkering with server environments and automation scripts.
 
@@ -51,7 +51,7 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 > An AI-powered automation engine engineered for modern productivity workflows and intelligent system orchestration.
 
 * **Backend Engine:** Built with fast, asynchronous **FastAPI** architecture.
-* **Database & Frontend:** Powered by **MongoDB** for flexible data structuring and **React** for responsive client logic.
+* **Database & Frontend:** Powered by **MongoDB** for flexible data structuring and vanilla **JavaScript** for responsive client logic.
 * **Deployment & Live Demo:** 🔗 [Launch Agentica AI](https://agentica-ai.vercel.app)
 
 ---
@@ -61,8 +61,6 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 * **Electronic Arts Software Engineering Virtual Experience** (via Forage)  
   *Gained hands-on experience covering practical software engineering workflows, testing strategies, and industry-standard architecture methods.*  
   📄 [View Completion Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf)
-
----
 
 ---
 
@@ -84,26 +82,6 @@ I am a Computer Science student and Full-Stack Developer passionate about archit
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=tokyonight&hide_border=true" alt="Activity Graph"/>
 
 ### 🎮 Contribution Grid Snake
-<img src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
-
-</div>
-
-### 📈 Global Activity Heatmap
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-
-### 🎮 Contribution Grid Snake
-<!-- Note: Ensure your GitHub Action snake workflow is running and successfully pushing to the 'output' branch -->
-<img src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
-
-</div>
-
-### 📈 Global Activity Heatmap
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=tokyonight&hide_border=true" alt="Activity Graph"/>
-
-### 🎮 Contribution Grid Snake
-
 <img src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
 
 </div>
