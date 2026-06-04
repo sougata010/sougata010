@@ -39,10 +39,10 @@ I am a Computer Science student, Full-Stack Developer, Backend Developer and AI 
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp" /> |
 | **AI Engineering** | <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-007ACC?style=flat-square"/> |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,jwt,cloudinary" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,axios,tailwind" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,docker,vercel" /> |
 
 ---
 
