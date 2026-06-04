@@ -32,7 +32,7 @@ My primary interests include:
 * API Development
 * FastAPI & Express.js
 * Database Design
-* Linux & Networking
+* Linux 
 * AI Automation
 * DevOps
 
