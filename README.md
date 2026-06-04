@@ -50,7 +50,7 @@ I am a Computer Science student, Full-Stack Developer, Backend Developer and AI 
 ## 🚀 Featured Project
 
 ### 🤖 Agentica AI
-> An AI-powered automation engine engineered for modern productivity workflows and intelligent system orchestration.
+> An AI-powered automation engine engineered for modern productivity workflows and intelligent system orchestrations.
 
 * **Core AI Layer:** Orchestrated via **LangChain** workflows with **Pydantic** data validation.
 * **Backend Engine:** High-performance, asynchronous endpoints powered by **FastAPI**.
