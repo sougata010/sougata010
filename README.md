@@ -1,18 +1,152 @@
-# 💫 About Me:
-🌱 I’m currently learning Web Development, JavaScript, Python<br>📚 Currently exploring full-stack projects and AI automations<br>🎯 Goal: Become a skilled developer who builds cool, useful, and aesthetic projects<br>💬 Ask me about HTML, CSS, JavaScript, or anything web<br>☕ Fun fact: I debug better with music 🎧
+<div align="center">
 
+# Sougata Chongder
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sougata_010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sougata-chongder-82198737) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sougatachongder8@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer+in+Progress;FastAPI+%7C+Node.js+%7C+MongoDB;Building+AI+and+Web+Applications" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sougata010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sougata010&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://linkedin.com/in/sougata-chongder-82198737">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sougatachongder8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/sougata_010">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sougata010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a Computer Science student and Full-Stack Developer focused on building scalable backend systems, APIs, automation tools, and modern web applications.
+
+My primary interests include:
+
+* Backend Engineering
+* API Development
+* FastAPI & Express.js
+* Database Design
+* Linux & Networking
+* AI Automation
+* DevOps
+
+---
+
+## Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## Featured Project
+
+### Agentica AI
+
+AI-powered web application focused on intelligent automation and productivity workflows.
+
+**Tech Stack**
+
+* FastAPI
+* JavaScript
+* MongoDB
+* Modern Web Technologies
+
+🔗 Live Demo: https://agentica-ai.vercel.app
+
+---
+
+## Certification
+
+### Electronic Arts Software Engineering Virtual Experience
+
+Completed practical software engineering tasks and workflows through Forage's virtual experience program.
+
+📄 Certificate
+
+https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sougata010&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sougata010&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=github-dark&hide_border=true"/>
+
+---
+
+## Current Focus
+
+```text
+Backend Development
+FastAPI
+Express.js
+MongoDB
+Linux
+DevOps Fundamentals
+System Design
+```
+
+---
+
+## GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+> Building software that is useful, maintainable, and scalable.
+
+</div>
