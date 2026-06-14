@@ -245,9 +245,6 @@ const sougata: Developer = {
 | [`authz-js`](https://npmjs.com) | JWT + RBAC/permission middleware for Express | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🟢 **Active** |
 | `retry-fetch` | Exponential backoff fetch with policy config | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🔵 Building |
 | `rate-limit-queue` | Token bucket rate limiter + async queue | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🔵 Building |
-| `schema-diff` | Deep structural diff engine for JSON schemas | — | 🔵 Building |
-| `scrape-schema` | Declarative scraping with typed output schemas | — | 🟡 Planned |
-| `sqlite-memory-adapter` | Lightweight SQLite adapter for in-memory use | — | 🟡 Planned |
 
 </div>
 
@@ -265,7 +262,7 @@ const sougata: Developer = {
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
 | 🎥 **Viral Video Pipeline** | `Gemini API` · `MoviePy` · `edge-tts` · `Pexels` | Script → voiceover → video, fully automated. Discord bot on Railway for heavy processing |
-| 🛡️ **YOLOv11 Weapon Detector** | `Python` · `YOLOv11` · `Kaggle` | Hard negative training pipeline, TP/TN evaluation, multi-source datasets |
+| 🛡️ **YOLOv11 Sleeping Detector** | `Python` · `YOLOv11` · `Kaggle` | Hard negative training pipeline, TP/TN evaluation, multi-source datasets |
 | 🤖 **Discord Analytics Bot** | `Discord.py` · `Railway` · `GitHub Actions` | Multi-cog: feeds, moderation, analytics, welcome — migrated from HuggingFace |
 | 📄 **AI Resume Analyser** | `LangChain` · `Python` | Structured resume parsing + LLM feedback scoring |
 | 🌐 **rkmvmfamily.in** | `React` · `Node.js` · `MongoDB` | Production college community platform — live for real users |
