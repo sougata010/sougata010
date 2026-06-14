@@ -36,8 +36,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-a78bfa?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GSoC-2026%20Aspirant-ff6b6b?style=flat-square&logo=google&logoColor=white"/>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sougata010&style=flat-square&color=00d4ff&label=Profile+Views"/>
 
 <br/><br/>
