@@ -1,156 +1,298 @@
 <div align="center">
 
-<!-- TERMINAL BOOT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3460,100:16213e&height=200&section=header&text=SOUGATA%20CHONGDER&fontSize=42&fontColor=58a6ff&fontAlignY=45&desc=Full-Stack%20%E2%9A%A1%20AI%20Engineering%20%E2%9A%A1%20Backend%20Architecture&descSize=14&descAlignY=70&descColor=8b949e&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1117,60:0f0c29,100:302b63&height=280&section=header&text=SOUGATA%20CHONGDER&fontSize=55&fontColor=00d4ff&fontAlignY=40&desc=%E2%9A%A1%20Full-Stack%20%20%7C%20%20AI%20Engineer%20%20%7C%20%20Backend%20Architect%20%E2%9A%A1&descSize=16&descAlignY=62&descColor=a78bfa&animation=twinkling&stroke=00d4ff&strokeWidth=1" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%E2%96%B6+Architecting+distributed+backend+systems...;%E2%96%B6+Orchestrating+multi-agent+AI+pipelines...;%E2%96%B6+Building+with+FastAPI+%E2%9A%A1+LangChain+%E2%9A%A1+Node.js;%E2%96%B6+Turning+complex+problems+into+clean+APIs..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+Architecting+distributed+backend+systems...;%F0%9F%A4%96+Orchestrating+multi-agent+AI+pipelines...;%F0%9F%94%A5+Shipping+production-ready+npm+packages...;%F0%9F%8C%90+Building+with+FastAPI+%7C+LangChain+%7C+Node.js;%F0%9F%8E%AF+Turning+complex+problems+into+clean+APIs...;%F0%9F%9A%80+First-year+CS+student+%E2%86%92+real+world+impact" />
+
+<br/>
+
+<!-- BADGES ROW 1 -->
+<a href="https://linkedin.com/in/sougata-chongder-82198737a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sougatachongder8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/sougata_010">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://agentica-ai.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00d4ff"/>
+</a>
+&nbsp;
+<a href="https://github.com/sougata010">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com/in/sougata-chongder-82198737a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sougatachongder8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sougata_010" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://agentica-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/Status-Available%20for%20Collab-00d4ff?style=flat-square&logo=statuspage&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=flat-square&logo=github&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-58a6ff?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-a78bfa?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=sougata010&style=flat-square&color=58a6ff&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=sougata010&style=flat-square&color=00d4ff&label=Profile+Views"/>
+
+<br/><br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- ABOUT ME SECTION -->
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> &nbsp;`~$ whoami`
 
-<br/>
-
-## `~$ whoami`
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
 ```typescript
-const sougata = {
-  role        : ["Full-Stack Developer", "Backend Architect", "AI Engineering"],
-  institution : "Ramakrishna Mission Vidyamandira · CS Honours · Batch 2025–2029",
-  focus       : ["Distributed Microservices", "LLM Orchestration", "Agentic AI Systems"],
-  currentlyOn : "Building production-ready npm packages + open-source contributions",
-  techPhilo   : "Systems that scale · Code that explains itself · APIs that don't lie",
-  available   : true
+const sougata: Developer = {
+  name        : "Sougata Chongder",
+  role        : ["Full-Stack Dev", "Backend Architect", "AI Engineer"],
+  institution : "RKM Vidyamandira · CS Honours · 2025–2028",
+  location    : "West Bengal, India 🇮🇳",
+  focus       : [
+    "Distributed Microservices",
+    "LLM Orchestration",
+    "Agentic AI Systems",
+    "Open Source npm Packages"
+  ],
+  currentlyOn : "GSoC prep + npm package suite + OS contributions",
+  techPhilo   : "Systems that scale. Code that explains itself.",
+  openTo      : ["Collaboration", "Freelance", "Open Source"],
+  available   : true  // ← ping me!
 };
 ```
 
-<br/>
+<br clear="right"/>
 
-## `~$ ls -la ./stack`
-
+<!-- FUN FACTS -->
 <div align="center">
 
-| Layer | Technologies |
-|:------|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **AI & LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-7c3aed?style=flat-square) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) |
-| **Open Source** | ![npm](https://img.shields.io/badge/npm_Packages-CB3837?style=flat-square&logo=npm&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![ESM/CJS](https://img.shields.io/badge/Dual_Build-ESM_%2B_CJS-58a6ff?style=flat-square) |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ⚡ Built a multi-agent AI platform as a first-year CS student  ║
+║  📦 Shipping production npm packages with CI/CD + Vitest tests  ║
+║  🤖 Deployed Discord bots, video pipelines & weapon detectors   ║
+║  🐧 Linux power user  |  🛡️ Cybersecurity explorer              ║
+║  📡 Hardware + ESP32 tinkerer  |  🎥 Faceless content creator   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-## `~$ cat ./projects/featured.json`
+---
+
+<!-- TECH STACK -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/> &nbsp;`~$ ls -la ./stack`
+
+<div align="center">
+
+### 🧠 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,cpp&theme=dark" />
+
+<br/><br/>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=00d4ff"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agentic_AI-a78bfa?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REST_API-00d4ff?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
+
+<br/><br/>
+
+### 🛠️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<br/><br/>
+
+### 📦 Open Source Tooling
+
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript_Build-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Dual_Build-ESM_%2B_CJS-00d4ff?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/tsup-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div>
 
 <br/>
 
+---
+
+<!-- PROJECTS SECTION -->
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1d4f.gif" width="30"/> &nbsp;`~$ cat ./projects/featured.json`
+
+<br/>
+
+<!-- PROJECT 1 -->
 <div align="center">
 
 ### 🤖 Agentica AI — Multi-Agent Automation Platform
 
+<a href="https://agentica-ai.vercel.app">
+  <img src="https://img.shields.io/badge/🔗_Live_Demo-agentica--ai.vercel.app-00d4ff?style=for-the-badge"/>
+</a>
+
 </div>
 
-> An intelligent automation engine built for production-grade LLM orchestration. Designed around composable agent graphs, async pipelines, and structured data contracts.
+> An intelligent automation engine for production-grade LLM orchestration — composable agent graphs, async pipelines, and structured data contracts under one roof.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  USER REQUEST  ──▶  LangChain Agent Graph  ──▶  Tool Router     │
-│                           │                         │           │
-│                    Pydantic Contracts         FastAPI Engine     │
-│                           │                         │           │
-│                    MongoDB Store  ◀──────  Async Response       │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                        AGENTICA AI ARCHITECTURE                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   USER REQUEST                                                       │
+│       │                                                              │
+│       ▼                                                              │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
+│  │  React UI   │────▶│  FastAPI Engine  │────▶│ LangChain Graph │   │
+│  └─────────────┘     └──────────────────┘     └────────┬────────┘   │
+│                                                         │            │
+│                              ┌──────────────────────────┤            │
+│                              │                          │            │
+│                    ┌─────────▼──────┐        ┌─────────▼──────┐     │
+│                    │ Pydantic Schema│        │   Tool Router   │     │
+│                    │   Validator    │        │  (Web/Code/DB)  │     │
+│                    └───────┬────────┘        └────────┬────────┘     │
+│                            │                          │              │
+│                            └──────────┬───────────────┘              │
+│                                       │                              │
+│                              ┌────────▼────────┐                     │
+│                              │  MongoDB Store  │                     │
+│                              └─────────────────┘                     │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 **Stack:** `FastAPI` · `LangChain` · `Pydantic` · `MongoDB` · `React` · `Vercel`
 
-🔗 **Live:** [agentica-ai.vercel.app](https://agentica-ai.vercel.app)
-
 ---
 
+<!-- PROJECT 2 -->
 <div align="center">
 
-### 📦 npm Package Suite — Open Source Toolkit
+### 📦 npm Open Source Package Suite
 
 </div>
 
-> A tiered roadmap of production-ready TypeScript packages with full ESM/CJS dual builds, Vitest test coverage, and automated CI/CD publish pipelines.
-
-| Package | Description | Status |
-|:--------|:------------|:------:|
-| `typed-env` | Runtime environment variable validator with TypeScript inference | 🟢 Active |
-| `authz-js` | JWT + RBAC/permission middleware toolkit for Express | 🟢 Active |
-| `retry-fetch` | Exponential backoff fetch wrapper with configurable policies | 🔵 Building |
-| `rate-limit-queue` | Token bucket rate limiter with async queue management | 🔵 Building |
-| `schema-diff` | Deep structural diff engine for JSON schemas | 🔵 Building |
-| `scrape-schema` | Declarative web scraping with typed output schemas | 🟡 Planned |
-
----
+> A production-ready TypeScript package ecosystem — full ESM/CJS dual builds, 100% Vitest coverage, automated CI/publish pipelines. Targeting GSoC-level open source presence.
 
 <div align="center">
 
-### 🎯 Other Projects
+| Package | What it does | Build | Status |
+|:--------|:-------------|:-----:|:------:|
+| [`typed-env`](https://npmjs.com) | Runtime env validator with TS type inference | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🟢 **Active** |
+| [`authz-js`](https://npmjs.com) | JWT + RBAC/permission middleware for Express | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🟢 **Active** |
+| `retry-fetch` | Exponential backoff fetch with policy config | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🔵 Building |
+| `rate-limit-queue` | Token bucket rate limiter + async queue | ![ESM](https://img.shields.io/badge/ESM-✓-00d4ff?style=flat-square) ![CJS](https://img.shields.io/badge/CJS-✓-a78bfa?style=flat-square) | 🔵 Building |
+| `schema-diff` | Deep structural diff engine for JSON schemas | — | 🔵 Building |
+| `scrape-schema` | Declarative scraping with typed output schemas | — | 🟡 Planned |
+| `sqlite-memory-adapter` | Lightweight SQLite adapter for in-memory use | — | 🟡 Planned |
 
 </div>
 
-| Project | Tech | Description |
-|:--------|:-----|:------------|
-| **Agentic AI** | `LangChain` · `Python` | Multi purpose proffesional AI agents orchestration |
-| **Viral Video Pipeline** | `Gemini API` · `MoviePy` · `edge-tts` | Automated script-to-video generation system with Pexels integration |
-| **Discord Analytics Bot** | `Discord.py` · `Railway` · `GitHub Actions` | Multi-cog bot with feeds, moderation, analytics, and welcome systems |
-| **AI Resume Analyser** | `LangChain` · `Python` | Structured resume parsing and scoring with LLM feedback |
+---
+
+<!-- PROJECT 3 -->
+<div align="center">
+
+### 🎯 More Projects
+
+</div>
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| 🎥 **Viral Video Pipeline** | `Gemini API` · `MoviePy` · `edge-tts` · `Pexels` | Script → voiceover → video, fully automated. Discord bot on Railway for heavy processing |
+| 🛡️ **YOLOv11 Weapon Detector** | `Python` · `YOLOv11` · `Kaggle` | Hard negative training pipeline, TP/TN evaluation, multi-source datasets |
+| 🤖 **Discord Analytics Bot** | `Discord.py` · `Railway` · `GitHub Actions` | Multi-cog: feeds, moderation, analytics, welcome — migrated from HuggingFace |
+| 📄 **AI Resume Analyser** | `LangChain` · `Python` | Structured resume parsing + LLM feedback scoring |
+| 🌐 **rkmvmfamily.in** | `React` · `Node.js` · `MongoDB` | Production college community platform — live for real users |
+
+</div>
 
 <br/>
 
-## `~$ git log --oneline --stats`
+---
+
+<!-- GITHUB STATS -->
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30"/> &nbsp;`~$ git log --oneline --graph`
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougata010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&border_radius=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sougata010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sougata010&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sougata010&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10&sideLabels=c9d1d9&dates=8b949e"/>
+
+<br/><br/>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=sougata010&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -160,7 +302,7 @@ const sougata = {
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ff6b6b&area=true&area_color=58a6ff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ff6b6b&area=true&area_color=00d4ff"/>
 
 </div>
 
@@ -180,24 +322,73 @@ const sougata = {
 
 <br/>
 
-## `~$ cat ./certs/verified.txt`
+---
+
+<!-- CERTIFICATIONS -->
+## 🏅 `~$ cat ./certs/verified.txt`
 
 <div align="center">
 
-| Certification | Issuer | Credential |
-|:-------------|:-------|:----------:|
-| Software Engineering Virtual Experience | Electronic Arts via Forage | [📄 View](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf) |
+| 🏆 Certification | Issuer | Year | Credential |
+|:----------------|:-------|:----:|:----------:|
+| Software Engineering Virtual Experience | Electronic Arts × Forage | 2025 | [📄 View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68de55396549cc2e44a61432_1759402906224_completion_certificate.pdf) |
 
 </div>
 
 <br/>
 
+---
+
+<!-- CURRENT GOALS -->
+## 🎯 `~$ cat ./roadmap/2025-goals.md`
+
+<div align="center">
+
+```
+ Q3 2025                    Q4 2025                    2026
+    │                           │                         │
+    ▼                           ▼                         ▼
+┌───────────┐            ┌─────────────┐          ┌────────────┐
+│  Publish  │            │ Contribute  │          │  GSoC 2026 │
+│ typed-env │──────────▶ │  LangChain  │────────▶ │   Target   │
+│ authz-js  │            │  Appwrite   │          │            │
+└───────────┘            └─────────────┘          └────────────┘
+      │                                                  │
+      ▼                                                  ▼
+┌───────────┐                                    ┌────────────┐
+│ GitHub    │                                    │ Full npm   │
+│ Profile   │                                    │ Ecosystem  │
+│ Cleanup   │                                    │ Launched   │
+└───────────┘                                    └────────────┘
+```
+
+</div>
+
+<div align="center">
+
+![Learning](https://img.shields.io/badge/🔥_Currently_Learning-TypeScript_Advanced_Patterns-00d4ff?style=flat-square)
+&nbsp;
+![Target](https://img.shields.io/badge/🎯_Target-GSoC_2026-a78bfa?style=flat-square)
+&nbsp;
+![Exploring](https://img.shields.io/badge/🛡️_Exploring-Cybersecurity_%26_Robotics-ff6b6b?style=flat-square)
+
+</div>
+
+<br/>
+
+---
+
+<!-- QUOTE & FOOTER -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d1117&height=100&section=footer&text=Let's%20build%20something%20that%20matters.&fontSize=16&fontColor=58a6ff&fontAlignY=65&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0d1117&height=120&section=footer&text=Let%27s+build+something+that+matters.&fontSize=18&fontColor=00d4ff&fontAlignY=65&animation=twinkling&desc=Open+to+collabs+%7C+Freelance+%7C+Open+Source&descSize=12&descColor=a78bfa&descAlignY=85"/>
 
 </div>
