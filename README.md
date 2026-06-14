@@ -341,28 +341,6 @@ const sougata: Developer = {
 
 <div align="center">
 
-```
- Q3 2025                    Q4 2025                    2026
-    │                           │                         │
-    ▼                           ▼                         ▼
-┌───────────┐            ┌─────────────┐          ┌────────────┐
-│  Publish  │            │ Contribute  │          │  GSoC 2026 │
-│ typed-env │──────────▶ │  LangChain  │────────▶ │   Target   │
-│ authz-js  │            │  Appwrite   │          │            │
-└───────────┘            └─────────────┘          └────────────┘
-      │                                                  │
-      ▼                                                  ▼
-┌───────────┐                                    ┌────────────┐
-│ GitHub    │                                    │ Full npm   │
-│ Profile   │                                    │ Ecosystem  │
-│ Cleanup   │                                    │ Launched   │
-└───────────┘                                    └────────────┘
-```
-
-</div>
-
-<div align="center">
-
 ![Learning](https://img.shields.io/badge/🔥_Currently_Learning-TypeScript_Advanced_Patterns-00d4ff?style=flat-square)
 &nbsp;
 ![Target](https://img.shields.io/badge/🎯_Target-GSoC_2026-a78bfa?style=flat-square)
