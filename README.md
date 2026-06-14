@@ -68,10 +68,10 @@ const sougata: Developer = {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ⚡ Shipped a multi-agent AI platform as a first-year CS student    ║
-║  📦 Production npm packages · CI/CD · Vitest · ESM+CJS dual build  ║
-║  🤖 Discord bots · automated video pipelines · weapon detection     ║
-║  🌐 Active dev on rkmvmfamily.in — real users, production code      ║
+║  ⚡ Shipped a multi-agent AI platform as a first-year CS student     ║
+║  📦 Production npm packages · CI/CD · Vitest · ESM+CJS dual build    ║
+║  🤖 Discord bots · automated video pipelines · weapon detection      ║
+║  🌐 Active dev on rkmvmfamily.in — real users, production code       ║
 ║  🐧 Linux power user  ·  🛡️ Cybersecurity learner                   ║
 ║  📡 Hardware tinkerer (ESP32 / Arduino)  ·  🎥 Content creator      ║
 ╚══════════════════════════════════════════════════════════════════════╝
