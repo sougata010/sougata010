@@ -49,8 +49,8 @@
 
 ```typescript
 const sougata = {
-  role        : ["Full-Stack Developer", "Backend Architect", "AI Engineer"],
-  institution : "Ramakrishna Mission Vidyamandira · CS Honours · Batch 2025–2028",
+  role        : ["Full-Stack Developer", "Backend Architect", "AI Engineering"],
+  institution : "Ramakrishna Mission Vidyamandira · CS Honours · Batch 2025–2029",
   focus       : ["Distributed Microservices", "LLM Orchestration", "Agentic AI Systems"],
   currentlyOn : "Building production-ready npm packages + open-source contributions",
   techPhilo   : "Systems that scale · Code that explains itself · APIs that don't lie",
