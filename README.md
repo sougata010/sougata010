@@ -133,7 +133,7 @@ const sougata = {
 
 | Project | Tech | Description |
 |:--------|:-----|:------------|
-| **YOLOv11 Weapon Detector** | `Python` · `YOLOv11` · `Kaggle` | Real-world weapon detection with hard negative training pipeline |
+| **Agentic AI** | `LangChain` · `Python` | Multi purpose proffesional AI agents orchestration |
 | **Viral Video Pipeline** | `Gemini API` · `MoviePy` · `edge-tts` | Automated script-to-video generation system with Pexels integration |
 | **Discord Analytics Bot** | `Discord.py` · `Railway` · `GitHub Actions` | Multi-cog bot with feeds, moderation, analytics, and welcome systems |
 | **AI Resume Analyser** | `LangChain` · `Python` | Structured resume parsing and scoring with LLM feedback |
