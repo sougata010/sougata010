@@ -3,9 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d1117,60:0f0c29,100:302b63&height=300&section=header&text=SOUGATA%20CHONGDER&fontSize=60&fontColor=00d4ff&fontAlignY=42&desc=%E2%9A%A1%20Full-Stack%20Developer%20%20%7C%20%20AI%20Orchestration%20Developer%20%20%7C%20%20Backend%20Architect%20%E2%9A%A1&descSize=15&descAlignY=63&descColor=a78bfa&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
 
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+Architecting+distributed+backend+systems...;%F0%9F%A4%96+Learning+%26+building+multi-agent+AI+pipelines...;%F0%9F%94%A5+Shipping+production-ready+npm+packages...;%F0%9F%8C%90+Building+with+FastAPI+%7C+LangChain+%7C+Node.js;%F0%9F%8E%AF+Turning+complex+problems+into+clean+APIs...;%F0%9F%9A%80+First-year+CS+%E2%86%92+real-world+shipped+products;%F0%9F%A7%A0+Orchestrating+LLM+workflows+with+LangChain;%F0%9F%93%A6+Open+source+contributor+in+the+making..." />
-
 <br/>
 
 <a href="https://linkedin.com/in/sougata-chongder-82198737a">
@@ -55,7 +53,7 @@ const sougata: Developer = {
   name        : "Sougata Chongder",
   role        : [
     "Full-Stack Developer",
-    "AI Orchestration Developer",  // ← learning & building
+    "AI Orchestration Developer",  
     "Backend Architect"
   ],
   institution : "RKM Vidyamandira · CS Honours · 2025–2028",
@@ -70,7 +68,7 @@ const sougata: Developer = {
   learning    : ["Advanced TypeScript", "Agent frameworks", "Cybersecurity"],
   techPhilo   : "Systems that scale. Code that explains itself.",
   openTo      : ["Collaboration", "Freelance", "Open Source"],
-  available   : true  // ← ping me anytime
+  available   : true  
 };
 ```
 
