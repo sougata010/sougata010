@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+Architecting+distributed+backend+systems...;%F0%9F%A4%96+Learning+%26+building+multi-agent+AI+pipelines...;%F0%9F%94%A5+Shipping+production-ready+npm+packages...;%F0%9F%8C%90+Building+with+FastAPI+%7C+LangChain+%7C+Node.js;%F0%9F%8E%AF+Turning+complex+problems+into+clean+APIs...;%F0%9F%9A%80+First-year+CS+%E2%86%92+real-world+shipped+products;%F0%9F%A7%A0+Orchestrating+LLM+workflows+with+LangChain;%F0%9F%93%A6+Open+source+contributor+in+the+making..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+Architecting+distributed+backend+systems...;%F0%9F%A4%96+Learning+%26+building+multi-agent+AI+pipelines...;%F0%9F%94%A5+Shipping+production-ready+npm+packages...;%F0%9F%8C%90+Building+with+FastAPI+%7C+LangChain+%7C+Node.js;%F0%9F%8E%AF+Turning+complex+problems+into+clean+APIs...;%F0%9F%9A%80+Second-year+CS+%E2%86%92+real-world+shipped+products;%F0%9F%A7%A0+Orchestrating+LLM+workflows+with+LangChain;%F0%9F%93%A6+Open+source+contributor+in+the+making..." />
 
 <br/>
 
