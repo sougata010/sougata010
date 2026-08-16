@@ -215,15 +215,11 @@ const sougata: Developer = {
 <img width="600" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 </div>
 
-### 🐍 Contribution Snake
+### 🧊 `~$ render --dimension=3d ./contributions`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 
 </div>
 
