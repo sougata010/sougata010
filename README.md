@@ -206,6 +206,9 @@ const sougata: Developer = {
 <!--<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
 <br/><br/> -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=tokyo-night&hide_border=true&bg_color=00000000&color=78C5FF&line=B5F5FF&point=ffffff" width="100%"/>
+</div>
 
 <img src="https://streak-stats.demolab.com?user=sougata010&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10&sideLabels=c9d1d9&dates=8b949e"/>
 
