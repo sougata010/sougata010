@@ -201,11 +201,11 @@ const sougata: Developer = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sougata010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/>
+<!-- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sougata010&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=10"/> -->
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+<!--<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougata010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8"/>
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://streak-stats.demolab.com?user=sougata010&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10&sideLabels=c9d1d9&dates=8b949e"/>
 
