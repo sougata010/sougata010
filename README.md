@@ -191,7 +191,7 @@ const sougata: Developer = {
 | 🛡️ **YOLOv11 Sleeping Detector** | `Python` · `YOLOv11` · `Kaggle` | Hard negative training, TP/TN evaluation, multi-source dataset pipeline |
 | 🤖 **Discord Analytics Bot** | `Discord.py` · `Railway` · `GitHub Actions` | Multi-cog: feeds, moderation, analytics, welcome. Migrated from HuggingFace |
 | 📄 **AI Resume Analyser** | `LangChain` · `Python` | Structured resume parsing + LLM-powered feedback scoring |
-| 🌐 **rkmvmfamily.in(Contributor)** | `React` · `Node.js` · `MongoDB` | Production college community platform — real users, active development |
+|**rkmvmfamily.in(Contributor)** | `PHP` · `JS` · `MySQL` | Production college community platform — real users, active development |
 
 <div align="center">
 <img width="600" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
