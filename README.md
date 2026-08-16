@@ -219,7 +219,17 @@ const sougata: Developer = {
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+<img src="./profile-3d-contrib/profile-custom-theme.svg" alt="3D contribution graph — custom theme" width="100%"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td><img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="night rainbow variant"/></td>
+<td><img src="./profile-3d-contrib/profile-night-view.svg" alt="night view variant"/></td>
+<td><img src="./profile-3d-contrib/profile-gitblock.svg" alt="git block variant"/></td>
+</tr>
+</table>
 
 </div>
 
