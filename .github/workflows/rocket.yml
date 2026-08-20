@@ -1,0 +1,32 @@
+name: Rocket Contribution Animation
+on:
+  schedule: # 00:00 UTC daily — adjust to your local midnight if you prefer
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-rocket-contribution-svg
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate rocket animation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_rocket.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update rocket contribution animation"; then
+            git push
+          fi
