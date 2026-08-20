@@ -20,22 +20,26 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="270"/>
+<table>
+<tr>
+<td width="270" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+</td>
+<td valign="top">
 
-| | |
-|:--|:--|
-| **Name** | Sougata Chongder |
-| **Roles** | Full-Stack Developer · AI Orchestration Developer *(learning & building)* · Backend Architect |
-| **Institution** | RKM Vidyamandira · CS Honours · 2025–2028 |
-| **Location** | West Bengal, India 🇮🇳 |
-| **Focus** | LLM Orchestration with LangChain · Agentic AI Systems & Pipelines · Distributed Backend Architecture · Open Source npm Ecosystem |
-| **Currently on** | npm package suite · OS contributions · GSoC prep |
-| **Learning** | Advanced TypeScript · Agent frameworks · Cybersecurity |
-| **Philosophy** | Systems that scale. Code that explains itself. |
-| **Open to** | Collaboration · Freelance · Open Source |
-| **Available** | ✅ Ping me anytime |
+- **Roles** — Full-Stack Developer, AI Orchestration Developer *(learning & building)*, Backend Architect
+- **Institution** — RKM Vidyamandira · CS Honours · 2025–2028
+- **Location** — West Bengal, India 🇮🇳
+- **Focus** — LLM Orchestration with LangChain, Agentic AI Systems & Pipelines, Distributed Backend Architecture, Open Source npm Ecosystem
+- **Currently on** — npm package suite · OS contributions · GSoC prep
+- **Learning** — Advanced TypeScript, Agent frameworks, Cybersecurity
+- **Philosophy** — Systems that scale. Code that explains itself.
+- **Open to** — Collaboration, Freelance, Open Source
+- **Available** — ✅ Ping me anytime
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 > ⚡ Shipped a multi-agent AI platform as a first-year CS student
 > 📦 Production npm packages — CI/CD, Vitest, ESM+CJS dual build
@@ -146,7 +150,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="./rocket-shooting-down.svg" alt="rocket diving down toward the contribution graph" width="130"/>
+<img src="./rocket-contrib/rocket.svg" alt="rocket flying over the contribution graph" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sougata010&theme=tokyo-night&hide_border=true&bg_color=00000000&color=78C5FF&line=B5F5FF&point=ffffff" width="100%"/>
 
