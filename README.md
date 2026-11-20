@@ -42,8 +42,8 @@
 
 <!-- appears after the "Contribution snake" workflow has run once -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sougata010/sougata010/output/github-snake-dark.svg"/>
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/sougata010/sougata010/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
