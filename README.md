@@ -23,7 +23,6 @@
 <a href="https://agentica-ai.vercel.app"><img src="./assets/agentica.svg" width="100%" alt="Agentica AI architecture on a heist-style board: React UI, FastAPI engine, LangChain agent graph, Pydantic contracts and tool router, MongoDB"/></a>
 <img src="./assets/missions.svg" width="100%" alt="Missions A to E: Viral Video Pipeline, YOLOv11 Sleeping Detector, Discord Analytics Bot, AI Resume Analyser, rkmvmfamily.in"/>
 
-[rkmvmfamily.in ↗](https://rkmvmfamily.in)
 
 <img src="./assets/ribbon-crew.svg" width="100%" alt="The Crew"/>
 <a href="https://www.npmjs.com/~sougata010"><img src="./assets/crew.svg" width="100%" alt="The crew, npm package suite: typed-env and authz-js active; retry-fetch, rate-limit-queue and schema-diff building; scrape-schema and sqlite-memory-adapter planned"/></a>
